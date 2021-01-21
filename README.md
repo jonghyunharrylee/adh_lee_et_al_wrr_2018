@@ -1,4 +1,8 @@
-# Lee et al., Riverine Bathymetry Imaging with Indirect Observations, WRR, in review
+
+# J. Lee, H. Ghorbanidehno, M. Farthing, T. Hesser, E. F. Darve, and P. K. Kitanidis, Riverine bathymetry imaging with indirect observations, Water Resources Research, 54(5): 3704-3727, 2018
+
+https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2017WR021649
+
 
 ADH inputs: 
 
